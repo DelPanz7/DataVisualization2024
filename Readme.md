@@ -12,7 +12,7 @@ https://github.com/stonycat/learning-vis-tools-2023-fall
 
 | # | Topic | Materials | Link to Tools |
 | - | - | - | - |
-| 1 | [Introduction to visualization tools and warm-up with MS Excel visualization](./tutorial01) | [Slides](https://bit.ly/vis-t01) ||
+| 1 | [Introduction to visualization tools and warm-up with MS Excel visualization](./tutorial01) | [Slides](https://shorturl.at/h5S3C) ||
 
 ## References
 
