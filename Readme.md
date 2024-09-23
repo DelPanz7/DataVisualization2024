@@ -13,7 +13,7 @@ https://github.com/stonycat/learning-vis-tools-2023-fall
 | # | Topic | Materials | Link to Tools |
 | - | - | - | - |
 | 1 | [Introduction to visualization tools and warm-up with MS Excel visualization](./tutorial01) | [Slides](https://shorturl.at/h5S3C) ||
-| 2 | [Visualization with Tableau and data processing pipeline](./tutorial02) | TBC |  [Tableau Desktop student (preferred)](https://www.tableau.com/academic/students), [Tableau Public](https://public.tableau.com) |
+| 2 | [Visualization with Tableau and data processing pipeline](./tutorial02) | [Slides](./tutorial02/T02_Data-processing-and-Tableau-2024F.pdf) |  [Tableau Desktop student (preferred)](https://www.tableau.com/academic/students), [Tableau Public](https://public.tableau.com) |
 
 ## References
 
