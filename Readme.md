@@ -16,7 +16,7 @@ https://github.com/stonycat/learning-vis-tools-2023-fall
 | 2 | [Visualization with Tableau and data processing pipeline](./tutorial02) | [Slides](./tutorial02/T02_Data-processing-and-Tableau-2024F.pdf) |  [Tableau Desktop student (preferred)](https://www.tableau.com/academic/students), [Tableau Public](https://public.tableau.com) |
 | 3 | [Data scientist toolbox: Python, Jupyter Notebook and Pandas](./tutorial03) | [Slides](./tutorial03/T03_Python-Jupyter-and-Pandas-2024F.pdf) |  [Jupyter Notebook on Google Colab](https://colab.research.google.com/drive/1hyR5K1ra61Z5qZwDSElhEHW-C6vuoTzz?usp=sharing) |
 | 4 | [Project Proposal Consultation & In-Class Exercise Review](./tutorial04) | [Slides](./tutorial04/T04_where-to-find-vis-and-datasets_exercises-review.pdf) |  *No exercise |
-| 5 | [Visualization with Javascript: Javascript basics, Vega-lite and data processing libraries](./tutorial05) | TBC |  *No exercise [Observable Notebook](https://observablehq.com/d/89e5c5ac7267627e) |
+| 5 | [Visualization with Javascript: Javascript basics, Vega-lite and data processing libraries](./tutorial05) | TBC |  *No exercise, [Observable Notebook for tutorial](https://observablehq.com/d/89e5c5ac7267627e) |
 
 ## References
 
