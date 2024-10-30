@@ -5,10 +5,10 @@ Visualization and interaction with D3.js
 ## Materials:
 
 Part 1
-- [Part 1 Notebook on Observable](https://bit.ly/vis-t08-ob)
+- [Part 1 Notebook on Observable](https://observablehq.com/d/9865ab2acfed2aed)
 
 Part 2
-- [Part 2 Notebook on Observable](https://bit.ly/vis-t09-ob)
+- [Part 2 Notebook on Observable](https://observablehq.com/d/ac8ade36ae376df7)
 
 ## Credits:
 
